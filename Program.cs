@@ -13,3 +13,5 @@ for (int i = 0; i < startMass.GetLength(0); i++){
     }
 }
 
+string [] newMass= new string [length];
+
